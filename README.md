@@ -1,0 +1,1 @@
+# wordgenius-chatgpt-app
